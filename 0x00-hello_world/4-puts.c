@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
  * my first c-program code
+ * main - program that prints a line with a puts function
  */
 int main(void)
 {
