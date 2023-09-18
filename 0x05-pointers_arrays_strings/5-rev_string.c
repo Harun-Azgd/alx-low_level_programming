@@ -3,7 +3,7 @@
 /**
 *rev_string - reverses a string
 *@s: the string to be modified
-return: an integer value
+return: always 0
 */
 
 void rev_string(char *s)
