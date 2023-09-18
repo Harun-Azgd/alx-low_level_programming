@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-*rev_string - reverses a string
-*@s: the string to be modified
-return: always 0
-*/
+ *rev_string - reverses a string
+ *@s: the string to be modified
+ *return: always 0
+ */
 
 void rev_string(char *s)
 
