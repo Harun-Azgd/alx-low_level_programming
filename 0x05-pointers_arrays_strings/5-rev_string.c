@@ -3,9 +3,11 @@
 /**
 *rev_string - reverses a string
 *@s: the string to be modified
-Return: void
+return: an integer value
 */
+
 void rev_string(char *s)
+
 {
 	int len = 0, index = 0;
 	char tmp;
